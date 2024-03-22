@@ -60,12 +60,7 @@
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
         "essentials/hypertrophy",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
       ]
     },
     {
