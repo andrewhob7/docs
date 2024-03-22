@@ -77,6 +77,12 @@
       ]
     },
     {
+      "group": "Cardio",
+      "pages": [
+        "cardio/basics"
+      ]
+    },
+    {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
