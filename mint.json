@@ -65,6 +65,18 @@
       ]
     },
     {
+      "group": "Hypertrophy",
+      "pages": [
+        "hypertrophy/hypertrophy"
+      ]
+    },
+    {
+      "group": "Nutrition",
+      "pages": [
+        "nutrition/bulk"
+      ]
+    },
+    {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
