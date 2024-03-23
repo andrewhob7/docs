@@ -5,7 +5,7 @@
     "dark": "/logo/portl-dark.svg",
     "light": "/logo/portl-light.svg"
   },
-  "versions": ["v2", "v1"],
+  "versions": ["Czech", "English"],
   "backgroundImage": "/images/bg.svg",
   "favicon": "/logo/fav.svg",
   "colors": {
