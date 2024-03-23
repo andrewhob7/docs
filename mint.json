@@ -5,7 +5,7 @@
     "dark": "/logo/portl-dark.svg",
     "light": "/logo/portl-light.svg"
   },
-  "versions": ["Czech", "English"],
+  "versions": ["English"],
   "backgroundImage": "/images/bg.svg",
   "favicon": "/logo/fav.svg",
   "colors": {
@@ -81,7 +81,8 @@
     {
       "group": "Cardio",
       "pages": [
-        "cardio/basics"
+        "cardio/basics",
+        "cardio/calories"
       ]
     },
     {
