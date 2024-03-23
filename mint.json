@@ -18,12 +18,12 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact",
+      "url": "mailto:ondrejhobzab@gmail.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Newslatter",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
