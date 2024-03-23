@@ -6,7 +6,7 @@
     "light": "/logo/portl-light.svg"
   },
   "backgroundImage": "/images/bg.svg",
-  "favicon": "logo/favicon.svg",
+  "favicon": "/logo/fav.svg",
   "colors": {
     "primary": "#0D6B93",
     "light": "#079AC9",
