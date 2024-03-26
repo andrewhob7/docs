@@ -82,7 +82,8 @@
       "group": "Cardio",
       "pages": [
         "cardio/basics",
-        "cardio/calories"
+        "cardio/calories",
+        "cardio/modalities",
       ]
     },
     {
