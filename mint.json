@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Portl",
   "logo": {
     "dark": "/logo/portl-dark.svg",
     "light": "/logo/portl-light.svg"
