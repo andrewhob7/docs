@@ -79,6 +79,12 @@
       ]
     },
     {
+      "group": "Diet",
+      "pages": [
+        "cardio/minicut"
+      ]
+    },
+    {
       "group": "Cardio",
       "pages": [
         "cardio/basics",
