@@ -6,7 +6,7 @@
     "light": "/logo/portl-light.svg"
   },
   "versions": ["English"],
-  "backgroundImage": "/images/beams1.jpg",
+  "backgroundImage": "/images/beams-templates.png",
   "favicon": "/logo/fav.svg",
   "colors": {
     "primary": "#0D6B93",
