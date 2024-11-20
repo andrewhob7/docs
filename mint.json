@@ -112,8 +112,7 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    }
-  ],
+    },
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
