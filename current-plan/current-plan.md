@@ -3,4 +3,10 @@ title: 'Current plan'
 description: 'Description of your new file.'
 ---
 
-## YOlo
+##
+
+<Update label="11/20/2024" description="version 1.0">
+  Plan created, bulk started
+</Update>
+
+##
