@@ -17,7 +17,7 @@
       "to": "#076CC9"
     }
   },
-  "topbarLinks": [
+  "topbarLinks": 
     {
       "name": "Contact",
       "url": "mailto:ondrejhobzab@gmail.com"
@@ -81,7 +81,7 @@
     {
       "group": "Diet",
       "pages": [
-        "diet/minicut",
+        "diet/minicut"
       ]
     },
     {
