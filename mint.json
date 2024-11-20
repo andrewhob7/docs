@@ -17,11 +17,12 @@
       "to": "#076CC9"
     }
   },
-  "topbarLinks": 
+  "topbarLinks": [
     {
       "name": "Contact",
       "url": "mailto:ondrejhobzab@gmail.com"
     }
+  ]
   ,
   "topbarCtaButton": {
     "name": "Newslatter",
