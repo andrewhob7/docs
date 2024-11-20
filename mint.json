@@ -94,6 +94,11 @@
         "cardio/myths"
       ]
     },
+    "group": "Plan",
+      "pages": [
+        "plan/current-plan",
+      ]
+    },
     {
       "group": "API Documentation",
       "pages": [
