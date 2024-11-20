@@ -22,7 +22,7 @@
       "name": "Contact",
       "url": "mailto:ondrejhobzab@gmail.com"
     }
-  ],
+  ,
   "topbarCtaButton": {
     "name": "Newslatter",
     "url": "https://dashboard.mintlify.com"
@@ -96,7 +96,7 @@
     },
     "group": "Plan",
       "pages": [
-        "plan/plan"
+        "plan/plan",
       ]
     },
     {
@@ -112,7 +112,8 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    },
+    }
+],
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
