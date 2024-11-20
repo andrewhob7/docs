@@ -96,6 +96,12 @@
       ]
     },
     {
+      "group": "Plan",
+      "pages": [
+        "plan/current-plan"
+      ]
+    },
+    {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
